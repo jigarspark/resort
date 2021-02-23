@@ -8,7 +8,7 @@ function About() {
     <div className="container aboutus">
         <div className="row">
             <div className="col-md-6 col-12 my-auto">
-                <img src={require('../images/about.svg')} alt="about us" className="img-fluid" />
+                <img src={require('../images/about.jpg')} alt="about us" className="img-fluid" />
             </div>
             <div className="col-md-6 col-12 my-auto">
                 <h1 className="display-4 text-center my-5">About Us </h1>
